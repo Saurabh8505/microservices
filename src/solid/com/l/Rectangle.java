@@ -1,4 +1,4 @@
-package com.l;
+package solid.com.l;
 
 
 class Rectangle {

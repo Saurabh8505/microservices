@@ -1,4 +1,4 @@
-package com.s;
+package solid.com.s;
 
 public class InvoicePersistence {
 	public void saveToFile(Invoice invoice, String filename) {

@@ -1,4 +1,4 @@
-package com.o;
+package solid.com.o;
 
 public class Test {
 	 public static void main(String[] args) {

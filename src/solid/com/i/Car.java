@@ -1,4 +1,4 @@
-package com.i;
+package solid.com.i;
 
 interface Parkable {
     void park();

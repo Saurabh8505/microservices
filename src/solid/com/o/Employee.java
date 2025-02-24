@@ -1,4 +1,4 @@
-package com.o;
+package solid.com.o;
 
 abstract class Employee {
     protected String name;

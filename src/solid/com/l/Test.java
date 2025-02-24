@@ -1,4 +1,4 @@
-package com.l;
+package solid.com.l;
 //Open / Closed Principle
 //Open for Extension but closed for Modification
 public class Test {

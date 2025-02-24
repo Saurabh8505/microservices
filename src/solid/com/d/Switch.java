@@ -1,4 +1,4 @@
-package com.d;
+package solid.com.d;
 
 interface Switchable {
     void turnOn();

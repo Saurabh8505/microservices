@@ -1,4 +1,4 @@
-package com.s;
+package solid.com.s;
 
 class Invoice {
     private Book book;
