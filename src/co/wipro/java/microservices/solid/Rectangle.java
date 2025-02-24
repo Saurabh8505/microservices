@@ -1,8 +1,8 @@
 package co.wipro.java.microservices.solid;
 
 class Rectangle {
-     int width;
-    int height;
+    private int width;
+     private int height;
 
     public Rectangle(int width, int height) {
         this.width = width;
