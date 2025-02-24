@@ -9,7 +9,7 @@ public class Test {
 	  }
 
 	  public static void main(String[] args) {
-	      Rectangle rc = new Rectangle(3, 4);
+	      Rectangle rc = new Rectangle(4, 5);
 	      getAreaTest(rc);
 
 	      Rectangle sq = new Square();
